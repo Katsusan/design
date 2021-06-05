@@ -1,1 +1,1 @@
-# design
+design and thought.
